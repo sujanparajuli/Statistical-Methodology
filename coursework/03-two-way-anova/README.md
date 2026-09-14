@@ -1,13 +1,8 @@
 # Two-Way ANOVA
 
-## Topics practiced
+Exercises examining two categorical factors, their main effects, and their interaction.
 
-- Comparing means across two categorical factors
-- Separating main effects from interaction effects
-- Reading and interpreting an ANOVA table
-- Checking independence, normality, and equal-variance assumptions
-- Explaining why an interaction can change the interpretation of main effects
-
-## Portfolio status
-
-Coursework summary created. Original assignment materials, calculations, and instructor-approved outputs can be added here.
+- Birthweight by age group and smoking status
+- Heart rate by age group and gender
+- Blood-pressure change by dosage and diet modification
+- Heart-rate change by exercise status and gender
