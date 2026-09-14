@@ -1,0 +1,8 @@
+# Local and generated files
+.Rhistory
+.RData
+.Rproj.user/
+.ipynb_checkpoints/
+__pycache__/
+.env
+.DS_Store
