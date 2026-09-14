@@ -1,0 +1,151 @@
+Dosage	Diet_Mod	Change_SBP
+10mg	diet	6
+10mg	diet	5
+10mg	diet	12
+10mg	diet	12
+10mg	diet	8
+10mg	diet	7
+10mg	diet	10
+10mg	diet	10
+10mg	diet	6
+10mg	diet	8
+10mg	diet	5
+10mg	diet	7
+10mg	diet	11
+10mg	diet	14
+10mg	diet	9
+10mg	diet	8
+10mg	diet	11
+10mg	diet	14
+10mg	diet	5
+10mg	diet	6
+10mg	no_diet	9
+10mg	no_diet	3
+10mg	no_diet	1
+10mg	no_diet	3
+10mg	no_diet	10
+10mg	no_diet	9
+10mg	no_diet	6
+10mg	no_diet	6
+10mg	no_diet	7
+10mg	no_diet	3
+10mg	no_diet	5
+10mg	no_diet	8
+10mg	no_diet	1
+10mg	no_diet	3
+10mg	no_diet	0
+10mg	no_diet	6
+10mg	no_diet	0
+10mg	no_diet	2
+10mg	no_diet	10
+10mg	no_diet	0
+20mg	diet	16
+20mg	diet	16
+20mg	diet	8
+20mg	diet	9
+20mg	diet	17
+20mg	diet	14
+20mg	diet	14
+20mg	diet	14
+20mg	diet	8
+20mg	diet	15
+20mg	diet	16
+20mg	diet	9
+20mg	diet	17
+20mg	diet	9
+20mg	diet	9
+20mg	diet	12
+20mg	diet	13
+20mg	diet	9
+20mg	diet	17
+20mg	diet	10
+20mg	no_diet	11
+20mg	no_diet	11
+20mg	no_diet	10
+20mg	no_diet	13
+20mg	no_diet	8
+20mg	no_diet	9
+20mg	no_diet	11
+20mg	no_diet	9
+20mg	no_diet	14
+20mg	no_diet	5
+20mg	no_diet	15
+20mg	no_diet	8
+20mg	no_diet	7
+20mg	no_diet	8
+20mg	no_diet	12
+20mg	no_diet	13
+20mg	no_diet	13
+20mg	no_diet	7
+20mg	no_diet	11
+20mg	no_diet	15
+50mg	diet	12
+50mg	diet	20
+50mg	diet	11
+50mg	diet	20
+50mg	diet	18
+50mg	diet	10
+50mg	diet	16
+50mg	diet	13
+50mg	diet	13
+50mg	diet	10
+50mg	diet	16
+50mg	diet	18
+50mg	diet	11
+50mg	diet	20
+50mg	diet	18
+50mg	diet	16
+50mg	diet	19
+50mg	diet	16
+50mg	diet	14
+50mg	diet	18
+50mg	no_diet	19
+50mg	no_diet	16
+50mg	no_diet	18
+50mg	no_diet	17
+50mg	no_diet	20
+50mg	no_diet	12
+50mg	no_diet	15
+50mg	no_diet	13
+50mg	no_diet	17
+50mg	no_diet	19
+50mg	no_diet	14
+50mg	no_diet	12
+50mg	no_diet	20
+50mg	no_diet	14
+50mg	no_diet	12
+50mg	no_diet	11
+50mg	no_diet	15
+50mg	no_diet	14
+50mg	no_diet	17
+50mg	no_diet	18
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
